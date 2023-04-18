@@ -12,6 +12,10 @@
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/huogerac/template-vue3-vite-vuetify3?file=TIPS-IDE.md) 👉 Run it online (Check the [TIPS-IDE.md](./TIPS-IDE.md) out!)
 
 
+## Architecture
+
+![djavue-arquitetura](https://raw.githubusercontent.com/evolutio/djavue3/main/images/djavue-front-arq-fluxo-componentes.drawio.jpg)
+
 
 ## 💡 Main Features
 
